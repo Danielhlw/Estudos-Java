@@ -1,1 +1,1 @@
-# Repositório para projetos em Java
+# Repositório para estudos da linguagem Java
